@@ -1,0 +1,6 @@
+train: ./NEU-DET/train/images  # 128 images
+val:  ./NEU-DET/val/images  # 128 images
+
+nc: 6
+names: ['Crazing','Inclusion','Patches','Pitted_Surface','Rolled-in_Scale','Scratches']
+
